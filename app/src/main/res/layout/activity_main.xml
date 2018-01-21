@@ -5,11 +5,7 @@
     android:layout_height="match_parent"
     tools:context="net.kojira.a02_activity.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
-    <ImageView android:src="@drawable/fire"
+   <ImageView android:src="@drawable/fire"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
