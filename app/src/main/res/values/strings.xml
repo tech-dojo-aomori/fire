@@ -2,4 +2,6 @@
     <string name="app_name">02_Activity</string>
     <string name="app_name2">Activity2</string>
     <string name="app_name3">fire</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
 </resources>

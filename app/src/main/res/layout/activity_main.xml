@@ -6,10 +6,27 @@
     android:layout_height="match_parent"
     tools:context="net.kojira.a02_activity.MainActivity">
 
+<<<<<<< HEAD
    <ImageView
        android:id="@+id/imageView2"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:layout_weight="1"
        app:srcCompat="@drawable/気体" />
+=======
+    <Button
+        android:id="@+id/button"
+        android:layout_width="160dp"
+        android:layout_height="97dp"
+        android:layout_weight="5"
+        android:text="@string/button" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="317dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:text="@string/textview" />
+
+>>>>>>> d08f2758757dd153ee1c492abf78c8e49f56d7b3
 </LinearLayout>
